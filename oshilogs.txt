@@ -12,95 +12,70 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nova =====
-[1]Nova        |16:43:00 | 13-10-2026| login OK @novazerlina | score=1010 rank=6254
-[1]Nova        |16:43:00 | 13-10-2026| serverTime=2026-10-13T16:43:00.000Z local=2026-10-13T16:43:00.305Z
+[1]Nova        |14:19:36 | 14-10-2026| login OK @novazerlina | score=1170 rank=5371
+[1]Nova        |14:19:36 | 14-10-2026| serverTime=2026-10-14T14:19:36.000Z local=2026-10-14T14:19:36.069Z
 --> [1]Nova menjalankan: Claim Daily
-[1]Nova        |16:43:01 | 13-10-2026| daily: OK +10 poin score=1020
---> [1]Nova menjalankan: Auto All Tasks (15 pending)
-[1]Nova        |16:43:02 | 13-10-2026| [1/15] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novazerlina/status/2110048256634496511
-[1]Nova        |16:43:02 | 13-10-2026| delay 10s...
-[1]Nova        |16:43:14 | 13-10-2026| [2/15] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novazerlina/status/2110048430524772432
-[1]Nova        |16:43:14 | 13-10-2026| delay 10s...
-[1]Nova        |16:43:26 | 13-10-2026| [3/15] 07e08c90 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novazerlina/status/2110048285559575523
-[1]Nova        |16:43:26 | 13-10-2026| delay 10s...
-[1]Nova        |16:43:38 | 13-10-2026| [4/15] 2f4050f7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novazerlina/status/2110048283694711114
-[1]Nova        |16:43:38 | 13-10-2026| delay 10s...
-[1]Nova        |16:43:51 | 13-10-2026| [5/15] b3500764 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novazerlina/status/2110048336872964135
-[1]Nova        |16:43:51 | 13-10-2026| delay 10s...
-[1]Nova        |16:44:07 | 13-10-2026| [6/15] b1aa7a09 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novazerlina/status/2110048601612709265
-[1]Nova        |16:44:07 | 13-10-2026| delay 10s...
-[1]Nova        |16:44:19 | 13-10-2026| [7/15] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novazerlina/status/2110048618233422269
-[1]Nova        |16:44:19 | 13-10-2026| delay 10s...
-[1]Nova        |16:44:30 | 13-10-2026| [8/15] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novazerlina/status/2110048776676119277
-[1]Nova        |16:44:30 | 13-10-2026| delay 10s...
-[1]Nova        |16:44:41 | 13-10-2026| [9/15] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Nova        |16:44:41 | 13-10-2026| delay 10s...
-[1]Nova        |16:44:54 | 13-10-2026| [10/15] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novazerlina/status/2110048582955007613
-[1]Nova        |16:44:54 | 13-10-2026| delay 10s...
-[1]Nova        |16:45:05 | 13-10-2026| [11/15] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novazerlina/status/2110048865874767825
-[1]Nova        |16:45:05 | 13-10-2026| delay 10s...
-[1]Nova        |16:45:17 | 13-10-2026| [12/15] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novazerlina/status/2110048675438297363
-[1]Nova        |16:45:17 | 13-10-2026| delay 10s...
-[1]Nova        |16:45:29 | 13-10-2026| [13/15] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novazerlina/status/2110048933627040159
-[1]Nova        |16:45:29 | 13-10-2026| delay 10s...
-[1]Nova        |16:45:40 | 13-10-2026| [14/15] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Nova        |16:45:40 | 13-10-2026| delay 10s...
-[1]Nova        |16:45:53 | 13-10-2026| [15/15] 34f1e829 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Nova        |16:45:53 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nova        |16:45:55 | 13-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/novazerlina/status/2110048873864482540
+[1]Nova        |14:19:37 | 14-10-2026| daily: sudah klaim (already=true) score=1170
+--> [1]Nova menjalankan: Auto All Tasks (3 pending)
+[1]Nova        |14:19:39 | 14-10-2026| [1/3] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novazerlina/status/2110374540965439512
+[1]Nova        |14:19:39 | 14-10-2026| delay 10s...
+[1]Nova        |14:19:51 | 14-10-2026| [2/3] 8dd1f57c (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
+[1]Nova        |14:19:51 | 14-10-2026| delay 10s...
+[1]Nova        |14:20:04 | 14-10-2026| [3/3] 039113e7 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/novazerlina/status/2110374665416023794
+[1]Nova        |14:20:04 | 14-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nova        |14:20:05 | 14-10-2026| [1/1] 68f22c3e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/novazerlina/status/2110374725721887600
 --> [1]Nova menjalankan: Watch Anime
-[1]Nova        |16:45:55 | 13-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
-[1]Nova        |16:45:55 | 13-10-2026| watch [1/3] farming oshi-captains-hat...
+[1]Nova        |14:20:06 | 14-10-2026| watch: 3 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse
+[1]Nova        |14:20:06 | 14-10-2026| watch [1/3] farming oshi-captains-hat...
   video baru dikenal: oshi-captains-hat (katalog +4)
-[1]Nova        |16:45:57 | 13-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nova        |16:46:02 | 13-10-2026| watch [2/3] farming oshi-rainbow-star...
-[1]Nova        |16:46:04 | 13-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nova        |16:46:09 | 13-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
-[1]Nova        |16:46:10 | 13-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nova        |14:20:08 | 14-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nova        |14:20:13 | 14-10-2026| watch [2/3] farming oshi-rainbow-star...
+[1]Nova        |14:20:15 | 14-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nova        |14:20:20 | 14-10-2026| watch [3/3] farming oshi-rainbow-lighthouse...
+[1]Nova        |14:20:22 | 14-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
 --> [1]Nova menjalankan: Read Article
-[1]Nova        |16:46:11 | 13-10-2026| news: 24/24 artikel selesai dibaca
-[1]Nova        |16:46:12 | 13-10-2026| mint eligibility: {"userId":"1675941560096276481","youtube":{"url":"https://www.youtube.com/@novazerlina","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticR
-[1]Nova        |16:46:12 | 13-10-2026| news: semua artikel sudah dibaca
+[1]Nova        |14:20:23 | 14-10-2026| news: 24/25 artikel selesai dibaca
+[1]Nova        |14:20:24 | 14-10-2026| mint eligibility: {"userId":"1675941560096276481","youtube":{"url":"https://www.youtube.com/@novazerlina","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"automaticR
+[1]Nova        |14:20:31 | 14-10-2026| news [1/1] 5c5bca9d-4991-4e23-918b-9b13cd2245c8: OK completed=25
 --> [1]Nova menjalankan: Quiz Anime
-[1]Nova        |16:46:13 | 13-10-2026| quiz ep1: sudah dijawab
-[1]Nova        |16:46:13 | 13-10-2026| quiz ep2: sudah dijawab
-[1]Nova        |16:46:13 | 13-10-2026| quiz ep3: sudah dijawab
-[1]Nova        |16:46:13 | 13-10-2026| quiz ep4: sudah dijawab
-[1]Nova        |16:46:13 | 13-10-2026| quiz ep5: sudah dijawab
-[1]Nova        |16:46:13 | 13-10-2026| quiz ep6: sudah dijawab
+[1]Nova        |14:20:34 | 14-10-2026| quiz ep1: sudah dijawab
+[1]Nova        |14:20:34 | 14-10-2026| quiz ep2: sudah dijawab
+[1]Nova        |14:20:34 | 14-10-2026| quiz ep3: sudah dijawab
+[1]Nova        |14:20:34 | 14-10-2026| quiz ep4: sudah dijawab
+[1]Nova        |14:20:34 | 14-10-2026| quiz ep5: sudah dijawab
+[1]Nova        |14:20:34 | 14-10-2026| quiz ep6: sudah dijawab
 --> [1]Nova menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nova        |16:46:14 | 13-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nova        |16:46:15 | 13-10-2026| mission music-listens-10: sudah diklaim
-[1]Nova        |16:46:15 | 13-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nova        |16:46:15 | 13-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nova        |14:20:36 | 14-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nova        |14:20:37 | 14-10-2026| mission music-listens-10: sudah diklaim
+[1]Nova        |14:20:37 | 14-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nova        |14:20:37 | 14-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nova menjalankan: Claim Missions
-[1]Nova        |16:46:16 | 13-10-2026| mission music-listens-10: sudah diklaim
-[1]Nova        |16:46:16 | 13-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nova        |16:46:16 | 13-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nova        |14:20:40 | 14-10-2026| mission music-listens-10: sudah diklaim
+[1]Nova        |14:20:40 | 14-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nova        |14:20:40 | 14-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nova menjalankan: Check Eligibility
 
 --- eligibility [1]Nova ---
-  @novazerlina | score=1010 rank=6254
-  tasks    [################----] 66/81
+  @novazerlina | score=1170 rank=5371
+  tasks    [###################-] 75/78
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
   watch    [####################] 18/17
   music    [####################] 11/11
-  artikel  [####################] 24/24
+  artikel  [####################] 25/25
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nova menjalankan: Read Manga
-[1]Nova        |16:46:20 | 13-10-2026| manga: 0/13 chapter belum completed
+[1]Nova        |14:20:45 | 14-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nova menjalankan: Get Gift
-[1]Nova        |16:46:20 | 13-10-2026| gift: 1/4 belum diterima
-[1]Nova        |16:46:21 | 13-10-2026| gift [1/1] Silver Oshii: OK
+[1]Nova        |14:20:45 | 14-10-2026| gift: 0/4 belum diterima
 --> [1]Nova menjalankan: Setup Profile
-[1]Nova        |16:46:25 | 13-10-2026| profile: bio="https://x.com/novazerlina" fav=oshi rewardAt=1791684731
-[1]Nova        |16:46:25 | 13-10-2026| profile: bonus sudah diklaim, skip
+[1]Nova        |14:20:46 | 14-10-2026| profile: bio="https://x.com/novazerlina" fav=oshi rewardAt=1791684731
+[1]Nova        |14:20:46 | 14-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nova menjalankan: Bind Wallet
-[1]Nova        |16:46:25 | 13-10-2026| wallet: sudah terikat 4q7qYpBDsq... (solana)
+[1]Nova        |14:20:47 | 14-10-2026| wallet: sudah terikat 4q7qYpBDsq... (solana)
 
 == RINGKASAN ==
-- Nova: daily=claimed | tasks OK 16/16 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 1/4 diterima | profile - | wallet bound | mint req=false open=false
+- Nova: daily=already | tasks OK 4/4 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/3 completed | musik 0 trek ~0s | artikel 1 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
