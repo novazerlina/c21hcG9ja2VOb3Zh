@@ -12,88 +12,170 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Nova =====
-[1]Nova        |05:45:30 | 20-10-2026| login OK @novazerlina | score=1500 rank=4702
-[1]Nova        |05:45:30 | 20-10-2026| serverTime=2026-10-20T05:45:30.000Z local=2026-10-20T05:45:30.054Z
+[1]Nova        |09:08:32 | 22-10-2026| login OK @novazerlina | score=1620 rank=4471
+[1]Nova        |09:08:32 | 22-10-2026| serverTime=2026-10-22T09:08:32.000Z local=2026-10-22T09:08:32.273Z
 --> [1]Nova menjalankan: Claim Daily
-[1]Nova        |05:45:30 | 20-10-2026| daily: OK +10 poin score=1510
---> [1]Nova menjalankan: Auto All Tasks (11 pending)
-[1]Nova        |05:45:32 | 20-10-2026| [1/11] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/novazerlina/status/2112419514575579244
-[1]Nova        |05:45:32 | 20-10-2026| delay 10s...
-[1]Nova        |05:45:43 | 20-10-2026| [2/11] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/novazerlina/status/2112419655626190891
-[1]Nova        |05:45:43 | 20-10-2026| delay 10s...
-[1]Nova        |05:45:55 | 20-10-2026| [3/11] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/novazerlina/status/2112419624149278961
-[1]Nova        |05:45:55 | 20-10-2026| delay 10s...
-[1]Nova        |05:46:06 | 20-10-2026| [4/11] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/novazerlina/status/2112419445475721904
-[1]Nova        |05:46:06 | 20-10-2026| delay 10s...
-[1]Nova        |05:46:18 | 20-10-2026| [5/11] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/novazerlina/status/2112419711644706777
-[1]Nova        |05:46:18 | 20-10-2026| delay 10s...
-[1]Nova        |05:46:30 | 20-10-2026| [6/11] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/novazerlina/status/2112419552396990860
-[1]Nova        |05:46:30 | 20-10-2026| delay 10s...
-[1]Nova        |05:46:42 | 20-10-2026| [7/11] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/novazerlina/status/2112419638071370739
-[1]Nova        |05:46:42 | 20-10-2026| delay 10s...
-[1]Nova        |05:46:53 | 20-10-2026| [8/11] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/novazerlina/status/2112419692272258367
-[1]Nova        |05:46:53 | 20-10-2026| delay 10s...
-[1]Nova        |05:47:05 | 20-10-2026| [9/11] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/novazerlina/status/2112420038470282904
-[1]Nova        |05:47:05 | 20-10-2026| delay 10s...
-[1]Nova        |05:47:17 | 20-10-2026| [10/11] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/novazerlina/status/2112419964824316443
-[1]Nova        |05:47:17 | 20-10-2026| delay 10s...
-[1]Nova        |05:47:29 | 20-10-2026| [11/11] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/novazerlina/status/2112419843533850335
-[1]Nova        |05:47:29 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Nova        |05:47:30 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/novazerlina/status/2112420149942979609
+[1]Nova        |09:08:33 | 22-10-2026| daily: OK +10 poin score=1630
+--> [1]Nova menjalankan: Auto All Tasks (13 pending)
+[1]Nova        |09:08:35 | 22-10-2026| [1/13] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/novazerlina/status/2113195538635753799
+[1]Nova        |09:08:35 | 22-10-2026| delay 10s...
+[1]Nova        |09:08:47 | 22-10-2026| [2/13] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/novazerlina/status/2113195286758842836
+[1]Nova        |09:08:47 | 22-10-2026| delay 10s...
+[1]Nova        |09:08:59 | 22-10-2026| [3/13] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/novazerlina/status/2113195312343593337
+[1]Nova        |09:08:59 | 22-10-2026| delay 10s...
+[1]Nova        |09:09:11 | 22-10-2026| [4/13] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/novazerlina/status/2113195393233233469
+[1]Nova        |09:09:11 | 22-10-2026| delay 10s...
+[1]Nova        |09:09:23 | 22-10-2026| [5/13] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/novazerlina/status/2113195711594090279
+[1]Nova        |09:09:23 | 22-10-2026| delay 10s...
+[1]Nova        |09:09:35 | 22-10-2026| [6/13] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/novazerlina/status/2113195429923014818
+[1]Nova        |09:09:35 | 22-10-2026| delay 10s...
+[1]Nova        |09:09:47 | 22-10-2026| [7/13] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/novazerlina/status/2113195757101742339
+[1]Nova        |09:09:47 | 22-10-2026| delay 10s...
+[1]Nova        |09:09:59 | 22-10-2026| [8/13] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/novazerlina/status/2113195878618011238
+[1]Nova        |09:09:59 | 22-10-2026| delay 10s...
+[1]Nova        |09:10:12 | 22-10-2026| [9/13] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/novazerlina/status/2113195803043594038
+[1]Nova        |09:10:12 | 22-10-2026| delay 10s...
+[1]Nova        |09:10:23 | 22-10-2026| [10/13] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/novazerlina/status/2113195636853852067
+[1]Nova        |09:10:23 | 22-10-2026| delay 10s...
+[1]Nova        |09:10:35 | 22-10-2026| [11/13] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/novazerlina/status/2113195938326684712
+[1]Nova        |09:10:35 | 22-10-2026| delay 10s...
+[1]Nova        |09:10:47 | 22-10-2026| [12/13] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/novazerlina/status/2113195804074147640
+[1]Nova        |09:10:47 | 22-10-2026| delay 10s...
+[1]Nova        |09:11:00 | 22-10-2026| [13/13] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054
+[1]Nova        |09:11:00 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Nova        |09:11:01 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/novazerlina/status/2113195842241194766
 --> [1]Nova menjalankan: Watch Anime
-[1]Nova        |05:47:32 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Nova        |05:47:32 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Nova        |05:47:36 | 20-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nova        |05:47:41 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Nova        |05:47:43 | 20-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nova        |05:47:48 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Nova        |05:47:50 | 20-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Nova        |05:47:55 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Nova        |05:47:56 | 20-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Nova        |09:11:02 | 22-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Nova        |09:11:02 | 22-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Nova        |09:11:05 | 22-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Nova        |09:11:11 | 22-10-2026| watch oshi-captains-hat: 5% (5.21/92.00s)
+[1]Nova        |09:11:17 | 22-10-2026| watch oshi-captains-hat: 11% (10.87/92.00s)
+[1]Nova        |09:11:23 | 22-10-2026| watch oshi-captains-hat: 17% (16.35/92.00s)
+[1]Nova        |09:11:29 | 22-10-2026| watch oshi-captains-hat: 23% (21.80/92.00s)
+[1]Nova        |09:11:35 | 22-10-2026| watch oshi-captains-hat: 29% (27.30/92.00s)
+[1]Nova        |09:11:42 | 22-10-2026| watch oshi-captains-hat: 35% (32.90/92.00s)
+[1]Nova        |09:11:48 | 22-10-2026| watch oshi-captains-hat: 41% (38.56/92.00s)
+[1]Nova        |09:11:54 | 22-10-2026| watch oshi-captains-hat: 48% (44.23/92.00s)
+[1]Nova        |09:12:01 | 22-10-2026| watch oshi-captains-hat: 54% (49.69/92.00s)
+[1]Nova        |09:12:07 | 22-10-2026| watch oshi-captains-hat: 60% (55.44/92.00s)
+[1]Nova        |09:12:13 | 22-10-2026| watch oshi-captains-hat: 66% (60.90/92.00s)
+[1]Nova        |09:12:19 | 22-10-2026| watch oshi-captains-hat: 72% (66.63/92.00s)
+[1]Nova        |09:12:25 | 22-10-2026| watch oshi-captains-hat: 78% (72.08/92.00s)
+[1]Nova        |09:12:32 | 22-10-2026| watch oshi-captains-hat: 84% (77.61/92.00s)
+[1]Nova        |09:12:38 | 22-10-2026| watch oshi-captains-hat: 90% (83.48/92.00s)
+[1]Nova        |09:12:38 | 22-10-2026| watch oshi-captains-hat: COMPLETED (83.48/92.00s)
+[1]Nova        |09:12:43 | 22-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Nova        |09:12:45 | 22-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Nova        |09:12:51 | 22-10-2026| watch oshi-rainbow-star: 6% (5.18/86.00s)
+[1]Nova        |09:12:58 | 22-10-2026| watch oshi-rainbow-star: 12% (10.79/86.00s)
+[1]Nova        |09:13:04 | 22-10-2026| watch oshi-rainbow-star: 19% (16.91/86.00s)
+[1]Nova        |09:13:11 | 22-10-2026| watch oshi-rainbow-star: 26% (22.78/86.00s)
+[1]Nova        |09:13:17 | 22-10-2026| watch oshi-rainbow-star: 33% (28.57/86.00s)
+[1]Nova        |09:13:23 | 22-10-2026| watch oshi-rainbow-star: 39% (33.99/86.00s)
+[1]Nova        |09:13:29 | 22-10-2026| watch oshi-rainbow-star: 46% (39.64/86.00s)
+[1]Nova        |09:13:36 | 22-10-2026| watch oshi-rainbow-star: 52% (45.23/86.00s)
+[1]Nova        |09:13:42 | 22-10-2026| watch oshi-rainbow-star: 59% (51.35/86.00s)
+[1]Nova        |09:13:48 | 22-10-2026| watch oshi-rainbow-star: 66% (57.00/86.00s)
+[1]Nova        |09:13:54 | 22-10-2026| watch oshi-rainbow-star: 72% (62.54/86.00s)
+[1]Nova        |09:14:01 | 22-10-2026| watch oshi-rainbow-star: 79% (68.06/86.00s)
+[1]Nova        |09:14:07 | 22-10-2026| watch oshi-rainbow-star: 85% (73.74/86.00s)
+[1]Nova        |09:14:13 | 22-10-2026| watch oshi-rainbow-star: 92% (79.22/86.00s)
+[1]Nova        |09:14:13 | 22-10-2026| watch oshi-rainbow-star: COMPLETED (79.22/86.00s)
+[1]Nova        |09:14:18 | 22-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Nova        |09:14:20 | 22-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
+[1]Nova        |09:14:26 | 22-10-2026| watch oshi-rainbow-lighthouse: 5% (5.19/87.00s)
+[1]Nova        |09:14:32 | 22-10-2026| watch oshi-rainbow-lighthouse: 12% (10.74/87.00s)
+[1]Nova        |09:14:38 | 22-10-2026| watch oshi-rainbow-lighthouse: 18% (16.22/87.00s)
+[1]Nova        |09:14:44 | 22-10-2026| watch oshi-rainbow-lighthouse: 24% (21.72/87.00s)
+[1]Nova        |09:14:51 | 22-10-2026| watch oshi-rainbow-lighthouse: 31% (27.34/87.00s)
+[1]Nova        |09:14:58 | 22-10-2026| watch oshi-rainbow-lighthouse: 38% (33.14/87.00s)
+[1]Nova        |09:15:04 | 22-10-2026| watch oshi-rainbow-lighthouse: 45% (39.31/87.00s)
+[1]Nova        |09:15:10 | 22-10-2026| watch oshi-rainbow-lighthouse: 51% (45.09/87.00s)
+[1]Nova        |09:15:16 | 22-10-2026| watch oshi-rainbow-lighthouse: 58% (50.56/87.00s)
+[1]Nova        |09:15:22 | 22-10-2026| watch oshi-rainbow-lighthouse: 64% (56.05/87.00s)
+[1]Nova        |09:15:29 | 22-10-2026| watch oshi-rainbow-lighthouse: 70% (61.59/87.00s)
+[1]Nova        |09:15:35 | 22-10-2026| watch oshi-rainbow-lighthouse: 77% (67.20/87.00s)
+[1]Nova        |09:15:41 | 22-10-2026| watch oshi-rainbow-lighthouse: 83% (72.71/87.00s)
+[1]Nova        |09:15:47 | 22-10-2026| watch oshi-rainbow-lighthouse: 89% (78.17/87.00s)
+[1]Nova        |09:15:54 | 22-10-2026| watch oshi-rainbow-lighthouse: 96% (83.69/87.00s)
+[1]Nova        |09:15:54 | 22-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (83.69/87.00s)
+[1]Nova        |09:15:59 | 22-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Nova        |09:16:00 | 22-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Nova        |09:16:06 | 22-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.20/181.00s)
+[1]Nova        |09:16:13 | 22-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.71/181.00s)
+[1]Nova        |09:16:19 | 22-10-2026| watch bakeru-ikesou-jan-mv: 8% (16.21/181.00s)
+[1]Nova        |09:16:25 | 22-10-2026| watch bakeru-ikesou-jan-mv: 11% (21.65/181.00s)
+[1]Nova        |09:16:31 | 22-10-2026| watch bakeru-ikesou-jan-mv: 15% (27.69/181.00s)
+[1]Nova        |09:16:37 | 22-10-2026| watch bakeru-ikesou-jan-mv: 18% (33.17/181.00s)
+[1]Nova        |09:16:44 | 22-10-2026| watch bakeru-ikesou-jan-mv: 21% (38.65/181.00s)
+[1]Nova        |09:16:50 | 22-10-2026| watch bakeru-ikesou-jan-mv: 24% (44.13/181.00s)
+[1]Nova        |09:16:56 | 22-10-2026| watch bakeru-ikesou-jan-mv: 27% (49.87/181.00s)
+[1]Nova        |09:17:03 | 22-10-2026| watch bakeru-ikesou-jan-mv: 30% (55.40/181.00s)
+[1]Nova        |09:17:09 | 22-10-2026| watch bakeru-ikesou-jan-mv: 33% (61.24/181.00s)
+[1]Nova        |09:17:15 | 22-10-2026| watch bakeru-ikesou-jan-mv: 36% (66.76/181.00s)
+[1]Nova        |09:17:21 | 22-10-2026| watch bakeru-ikesou-jan-mv: 39% (72.29/181.00s)
+[1]Nova        |09:17:28 | 22-10-2026| watch bakeru-ikesou-jan-mv: 42% (77.76/181.00s)
+[1]Nova        |09:17:34 | 22-10-2026| watch bakeru-ikesou-jan-mv: 46% (83.78/181.00s)
+[1]Nova        |09:17:40 | 22-10-2026| watch bakeru-ikesou-jan-mv: 49% (89.62/181.00s)
+[1]Nova        |09:17:46 | 22-10-2026| watch bakeru-ikesou-jan-mv: 52% (95.15/181.00s)
+[1]Nova        |09:17:53 | 22-10-2026| watch bakeru-ikesou-jan-mv: 55% (100.69/181.00s)
+[1]Nova        |09:17:59 | 22-10-2026| watch bakeru-ikesou-jan-mv: 58% (106.60/181.00s)
+[1]Nova        |09:18:05 | 22-10-2026| watch bakeru-ikesou-jan-mv: 62% (112.27/181.00s)
+[1]Nova        |09:18:11 | 22-10-2026| watch bakeru-ikesou-jan-mv: 65% (117.76/181.00s)
+[1]Nova        |09:18:18 | 22-10-2026| watch bakeru-ikesou-jan-mv: 68% (123.22/181.00s)
+[1]Nova        |09:18:24 | 22-10-2026| watch bakeru-ikesou-jan-mv: 71% (128.85/181.00s)
+[1]Nova        |09:18:30 | 22-10-2026| watch bakeru-ikesou-jan-mv: 74% (134.68/181.00s)
+[1]Nova        |09:18:36 | 22-10-2026| watch bakeru-ikesou-jan-mv: 77% (140.14/181.00s)
+[1]Nova        |09:18:43 | 22-10-2026| watch bakeru-ikesou-jan-mv: 80% (145.79/181.00s)
+[1]Nova        |09:18:49 | 22-10-2026| watch bakeru-ikesou-jan-mv: 83% (151.62/181.00s)
+[1]Nova        |09:18:55 | 22-10-2026| watch bakeru-ikesou-jan-mv: 86% (157.09/181.00s)
+[1]Nova        |09:19:02 | 22-10-2026| watch bakeru-ikesou-jan-mv: 89% (162.78/181.00s)
+[1]Nova        |09:19:08 | 22-10-2026| watch bakeru-ikesou-jan-mv: 93% (168.41/181.00s)
+[1]Nova        |09:19:08 | 22-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (168.41/181.00s)
 --> [1]Nova menjalankan: Read Article
-[1]Nova        |05:47:58 | 20-10-2026| news: 27/27 artikel selesai dibaca
-[1]Nova        |05:47:58 | 20-10-2026| mint eligibility: {"userId":"1675941560096276481","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@novazerlina","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt
-[1]Nova        |05:47:58 | 20-10-2026| news: semua artikel sudah dibaca
+[1]Nova        |09:19:09 | 22-10-2026| news: 27/27 artikel selesai dibaca
+[1]Nova        |09:19:10 | 22-10-2026| mint eligibility: {"userId":"1675941560096276481","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@novazerlina","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt
+[1]Nova        |09:19:16 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Nova        |09:19:25 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Nova menjalankan: Quiz Anime
-[1]Nova        |05:47:59 | 20-10-2026| quiz ep1: sudah dijawab
-[1]Nova        |05:47:59 | 20-10-2026| quiz ep2: sudah dijawab
-[1]Nova        |05:47:59 | 20-10-2026| quiz ep3: sudah dijawab
-[1]Nova        |05:47:59 | 20-10-2026| quiz ep4: sudah dijawab
-[1]Nova        |05:47:59 | 20-10-2026| quiz ep5: sudah dijawab
-[1]Nova        |05:47:59 | 20-10-2026| quiz ep6: sudah dijawab
+[1]Nova        |09:19:28 | 22-10-2026| quiz ep1: sudah dijawab
+[1]Nova        |09:19:28 | 22-10-2026| quiz ep2: sudah dijawab
+[1]Nova        |09:19:28 | 22-10-2026| quiz ep3: sudah dijawab
+[1]Nova        |09:19:28 | 22-10-2026| quiz ep4: sudah dijawab
+[1]Nova        |09:19:28 | 22-10-2026| quiz ep5: sudah dijawab
+[1]Nova        |09:19:28 | 22-10-2026| quiz ep6: sudah dijawab
 --> [1]Nova menjalankan: Music Missions (realtime, bisa lama!)
-[1]Nova        |05:48:04 | 20-10-2026| music: kedua misi sudah tercapai, stop
-[1]Nova        |05:48:04 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Nova        |05:48:04 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nova        |05:48:04 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nova        |09:19:29 | 22-10-2026| music: kedua misi sudah tercapai, stop
+[1]Nova        |09:19:30 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Nova        |09:19:30 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nova        |09:19:30 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nova menjalankan: Claim Missions
-[1]Nova        |05:48:05 | 20-10-2026| mission music-listens-10: sudah diklaim
-[1]Nova        |05:48:05 | 20-10-2026| mission music-minutes-30: sudah diklaim
-[1]Nova        |05:48:05 | 20-10-2026| mission anime-completed-3: sudah diklaim
+[1]Nova        |09:19:31 | 22-10-2026| mission music-listens-10: sudah diklaim
+[1]Nova        |09:19:31 | 22-10-2026| mission music-minutes-30: sudah diklaim
+[1]Nova        |09:19:31 | 22-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Nova menjalankan: Check Eligibility
 
 --- eligibility [1]Nova ---
-  @novazerlina | score=1500 rank=4702
-  tasks    [#################---] 71/82
+  @novazerlina | score=1620 rank=4471
+  tasks    [#################---] 73/86
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 18/17
+  watch    [####################] 22/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Nova menjalankan: Read Manga
-[1]Nova        |05:48:08 | 20-10-2026| manga: 0/13 chapter belum completed
+[1]Nova        |09:19:35 | 22-10-2026| manga: 0/13 chapter belum completed
 --> [1]Nova menjalankan: Get Gift
-[1]Nova        |05:48:09 | 20-10-2026| gift: 0/4 belum diterima
+[1]Nova        |09:19:35 | 22-10-2026| gift: 0/4 belum diterima
 --> [1]Nova menjalankan: Setup Profile
-[1]Nova        |05:48:09 | 20-10-2026| profile: bio="https://x.com/novazerlina" fav=oshi rewardAt=1791684731
-[1]Nova        |05:48:09 | 20-10-2026| profile: bonus sudah diklaim, skip
+[1]Nova        |09:19:36 | 22-10-2026| profile: bio="https://x.com/novazerlina" fav=oshi rewardAt=1791684731
+[1]Nova        |09:19:36 | 22-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Nova menjalankan: Bind Wallet
-[1]Nova        |05:48:10 | 20-10-2026| wallet: sudah terikat 4q7qYpBDsq... (solana)
+[1]Nova        |09:19:36 | 22-10-2026| wallet: sudah terikat 4q7qYpBDsq... (solana)
 
 == RINGKASAN ==
-- Nova: daily=claimed | tasks OK 12/12 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Nova: daily=claimed | tasks OK 14/14 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 4/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
